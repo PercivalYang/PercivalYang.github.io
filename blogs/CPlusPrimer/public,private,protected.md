@@ -1,8 +1,8 @@
-## `public`
+## public
 
 - `public`的成员在程序中类的外部，是可以进行访问的；
 
-## `private`
+## private
 
 - `private`的成员在程序中类的外部，是不可以进行访问。只能通过类和**友元函数**访问，不能被子类访问；
 - 默认情况下，类的成员为`private`。
@@ -31,6 +31,7 @@
 
   
 
-## `protected`
+## protected
 
 - 与`private`相似，但是`protected`的成员在**子类**中是可以访问的。
+
