@@ -7,3 +7,5 @@
 ## [Chapter1: Get Started](Chapter1.md)
 
 ## [public, private, protected](public,private,protected.md)
+
+## [函数的不同调用](函数的不同调用.md)
