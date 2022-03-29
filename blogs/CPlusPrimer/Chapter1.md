@@ -44,6 +44,7 @@
 
 - **namespace**：避免标识符名称重复导致的冲突(后面3.1章节会详细展开介绍)
   - `std::` ：是一个前缀，用来表示之后的标识符是定义在`std`这个`namespace`中的。
+  - `::`：是范围解析运算符，符号前的标识符为指定范围的名称，符号后为所要调用的函数名，例如`std::cout`, `Box::getVolume`(定义Box类的getVolume函数)。
 
 ## 当用`istream/ostream`作为condition时
 

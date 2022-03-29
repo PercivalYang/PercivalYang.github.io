@@ -5,3 +5,5 @@
 # Content
 
 ## [Chapter1: Get Started](Chapter1.md)
+
+## [public, private, protected](public,private,protected.md)
