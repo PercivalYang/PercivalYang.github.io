@@ -8,4 +8,4 @@
 
 ## [public, private, protected](public,private,protected.md)
 
-## [函数的不同调用](函数的不同调用.md)
+## [函数](函数.md)
