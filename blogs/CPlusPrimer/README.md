@@ -9,3 +9,5 @@
 ## [public, private, protected](public,private,protected.md)
 
 ## [函数](函数.md)
+
+## 数据封装&数据抽象
