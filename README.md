@@ -1,7 +1,5 @@
 # Blogs
 
-****
-
 ## [论文阅读系列](blogs/PaperRead/PaperRead.md)
 
 > 阅读的论文笔记及问题
